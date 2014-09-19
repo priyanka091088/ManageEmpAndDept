@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageEmpAndDept", "ManageEmpAndDept\ManageEmpAndDept.csproj", "{A4BB4FA8-95B8-487D-AD84-4CD9025BED67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{399AAE00-B01A-4F6D-9B28-95A9ECE620DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopRegion", "TopRegion\TopRegion.csproj", "{C6702461-7E05-4348-9240-0F78D8D37A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupRegion", "GroupRegion\GroupRegion.csproj", "{95F4E77A-761C-40A8-B6D5-EBA56B08BF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDtlRegion", "EmployeeDtlRegion\EmployeeDtlRegion.csproj", "{F75F6DC7-D896-417B-820E-8E8E85FDA6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentDtlRegion", "DepartmentDtlRegion\DepartmentDtlRegion.csproj", "{21C5EC75-70F1-4D7F-971C-01F9ACA6A59D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BB4FA8-95B8-487D-AD84-4CD9025BED67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BB4FA8-95B8-487D-AD84-4CD9025BED67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BB4FA8-95B8-487D-AD84-4CD9025BED67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BB4FA8-95B8-487D-AD84-4CD9025BED67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399AAE00-B01A-4F6D-9B28-95A9ECE620DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399AAE00-B01A-4F6D-9B28-95A9ECE620DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399AAE00-B01A-4F6D-9B28-95A9ECE620DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399AAE00-B01A-4F6D-9B28-95A9ECE620DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6702461-7E05-4348-9240-0F78D8D37A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6702461-7E05-4348-9240-0F78D8D37A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6702461-7E05-4348-9240-0F78D8D37A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6702461-7E05-4348-9240-0F78D8D37A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F4E77A-761C-40A8-B6D5-EBA56B08BF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F4E77A-761C-40A8-B6D5-EBA56B08BF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F4E77A-761C-40A8-B6D5-EBA56B08BF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F4E77A-761C-40A8-B6D5-EBA56B08BF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75F6DC7-D896-417B-820E-8E8E85FDA6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75F6DC7-D896-417B-820E-8E8E85FDA6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75F6DC7-D896-417B-820E-8E8E85FDA6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75F6DC7-D896-417B-820E-8E8E85FDA6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C5EC75-70F1-4D7F-971C-01F9ACA6A59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C5EC75-70F1-4D7F-971C-01F9ACA6A59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C5EC75-70F1-4D7F-971C-01F9ACA6A59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C5EC75-70F1-4D7F-971C-01F9ACA6A59D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35;packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
